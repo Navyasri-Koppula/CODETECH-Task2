@@ -1,8 +1,8 @@
-**Name:** Adhi Harika
+**Name:** KOPPULA NAVYA SRI
 
 **Company:** CodeTech IT Solutions
 
-**ID:** CT08DS6584
+**ID:** CT08DS6683
 
 **Domain:** Frontend Web Development
 
